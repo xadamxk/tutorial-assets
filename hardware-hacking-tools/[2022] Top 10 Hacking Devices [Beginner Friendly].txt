@@ -1,0 +1,113 @@
+[align=center][size=xx-large][b][u]About[/u][/b][/size][/align]
+
+Every hacker should always have the right tool for the job and this list is guaranteed to meet your needs.
+Whether you are new to security, or a seasoned veteran, the following devices would make a great addition to any hacker's toolbox.
+If you find a tool that you love, but the price is out of your budget, research alternatives as most of these devices are open source.
+
+Have any questions about the devices listed? Think your favorite tool should've made the list? Comment below!
+
+[align=center][size=xx-large][b][u][url=https://github.com/SpacehuhnTech/esp8266_deauther]10. DSTIKE's WiFi Deauther[/url][/u][/b][/size]
+[img=408x209]https://github.com/xadamxk/tutorial-assets/blob/main/hardware-hacking-tools/dstike%20wifi%20deauther%20mini%20v3.jpg?raw=true[/img][/align]
+[b]Description[/b]: Disconnect 2.4G WiFi networks, create fake networks, display wifi traffic information, and more.
+[b]Manufacturer[/b]:  [url=https://dstike.com/]DSTIKE[/url]
+[b]Models[/b]:[list]
+[*] MiNi V3 ([url=https://dstike.com/collections/frontpage/products/dstike-wifi-deauther-mini]Official: $19[/url], [url=https://www.amazon.com/gp/product/B07JCPLGHZ]Reseller: $24[/url])
+[*] Monster V5 ([url=https://dstike.com/collections/frontpage/products/dstike-deauther-monster-v2]Official: $35[/url])
+[*] OLED V6 ([url=https://dstike.com/collections/frontpage/products/dstike-wifi-deauther-oled-v4]Official: $29[/url], [url=https://www.amazon.com/AURSINC-Development-Deauther-Charging-Momentary/dp/B0932S4YX7]Reseller: $39[/url])
+[*]Deauth Watch SE ([url=https://dstike.com/collections/frontpage/products/dstike-deauther-watch-se]Official: $59[/url], [url=https://www.amazon.com/MakerFocus-Deauther-Programmable-Development-Wristband/dp/B08X6SNG5H]Reseller: $59[/url])
+[/list]
+
+[align=center][size=xx-large][b][u][url=https://www.bitcraze.io/products/crazyradio-pa/]9. CrazyRadio PA[/url][/u][/b][/size]
+[img=326x143]https://github.com/xadamxk/tutorial-assets/blob/main/hardware-hacking-tools/crazyradio%20pa.jpg?raw=true[/img][/align]
+[b]Description[/b]: Long range radio dongle for various wireless attacks (compatible with [url=https://github.com/insecurityofthings/jackit]JackIt[/url], [url=https://github.com/BastilleResearch/keyjack]KeyJack[/url], [url=https://github.com/BastilleResearch/mousejack]MouseJack[/url], and [url=https://github.com/BastilleResearch/keysniffer]KeySniffer[/url]).
+[b]Manufacturer[/b]: [url=https://hackerwarehouse.com/product/crazyradio-pa/]Hacker Warehouse[/url]
+[b]Models[/b]:[list]
+[*] CrazyRadio PA ([url=https://hackerwarehouse.com/product/crazyradio-pa/]Official: $35[/url], [url=https://www.amazon.com/gp/product/B00VYA3A2U]Reseller: $44[/url])
+[*] CrazyRadio PA 2.0 ([url=https://hacker-gadgets.com/product/crazy-radio-pa-2-0/]Official: $65[/url])
+[/list]
+
+[align=center][size=xx-large][b][u][url=https://greatscottgadgets.com/yardstickone/]8. YARD Stick One[/url][/u][/b][/size]
+[img=442x118]https://github.com/xadamxk/tutorial-assets/blob/main/hardware-hacking-tools/yard%20stick%20one.jpg?raw=true[/img][/align]
+[b]Description[/b]: Transmit and receive wireless signals below 1Ghz using the same hardware as the IM-Me, which has been used to [url=https://samy.pl/opensesame/]hack garage doors and security gates[/url] that do not use rolling codes.
+[b]Manufacturer[/b]: [url=https://greatscottgadgets.com]GreatScottGadgets[/url]
+[b]Models[/b]:[list]
+[*] YARD Stick One ([url=https://greatscottgadgets.com/yardstickone/]Official: $100[/url], [url=https://www.adafruit.com/product/3586]Reseller: $100[/url])
+[/list]
+
+[align=center][size=xx-large][b][u][url=https://github.com/emsec/ChameleonMini]7. Chameleon Mini[/url][/u][/b][/size]
+[img]https://github.com/xadamxk/tutorial-assets/blob/main/hardware-hacking-tools/chameleon%20tiny%20pro.jpg?raw=true[/img][/align]
+[b]Description[/b]: Read, clone, and manipulate NFC devices. Supports the open source [url=https://github.com/emsec/ChameleonMini]Chameleon Mini Firmware[/url]. Companion Android app [url=https://play.google.com/store/apps/details?id=com.proxgrind.chameleon&pli=1]Chameleon[/url].
+[b]Manufacturer[/b]: [url=https://shop.kasper.it/]Kasper & Oswald ISE[/url]
+[b]Models[/b]:[list]
+[*] RevG Standard ([url=https://shop.kasper.it/chameleonmini/167/chameleonmini-revg-standard-red?c=5]Official: €200[/url])
+[*] Tiny Pro ([url=https://hackerwarehouse.com/product/chameleon-tiny-pro/]Official: $100[/url])
+[/list]
+
+[align=center][size=xx-large][b][u][url=https://greatscottgadgets.com/ubertoothone/]6. Bluetooth Sniffers[/url][/u][/b][/size]
+[img=434x155]https://github.com/xadamxk/tutorial-assets/blob/main/hardware-hacking-tools/ubertooth%20one.jpg?raw=true[/img][/align]
+[b]Description[/b]: Capture BLE (Bluetooth) packets with Wireshark, replay messages for keyboards, mice, and other smart home applications (locks, alarm systems, etc).
+[b]Manufacturer[/b]: [url=https://greatscottgadgets.com]GreatScottGadgets[/url]
+[b]Models[/b]:[list]
+[*] Ubertooth One ([url=https://hackerwarehouse.com/product/ubertooth-one/]Reseller: $125[/url], [url=https://www.amazon.com/gp/product/B07GBDD53W]Reseller: $160[/url])
+[*] Bluefruit LE Sniffer ([url=https://www.amazon.com/dp/B00SKWGPE0]Official: $25[/url], [url=https://www.amazon.com/dp/B00SKWGPE0]Reseller: $29[/url])
+[/list]
+
+[align=center][size=xx-large][b][u][url=https://github.com/RfidResearchGroup/proxmark3]5. Proxmark 3[/url][/u][/b][/size]
+[img=336x260]https://raw.githubusercontent.com/xadamxk/tutorial-assets/main/hardware-hacking-tools/proxmark3.jpg[/img][/align]
+[b]Description[/b]: Read, sniff, and clone RF tags. Does not require a computer to use.
+[b]Manufacturer[/b]: [url=https://hackerwarehouse.com/product/proxmark3-rdv4-kit/]Hacker Warehouse[/url]
+[b]Models[/b]:[list]
+[*] [url=https://proxmark3x.mtoolstec.com/]Proxmark 3 X[/url] ([url=https://shop.mtoolstec.com/product/proxmark3-x]Reseller: $90[/url], [url=https://www.amazon.com/Proxmark3-V3-0-Reader-Decryptor-Decoder/dp/B07WSTZH6Q]Reseller: $76[/url])
+[*] Proxmark 3 R&D Kit (RDV4.01) ([url=https://store.expliot.io/products/proxmark3-dev-kit-4-rdv4]Reseller: $335[/url])
+[/list]
+
+[align=center][size=xx-large][b][u][url=https://en.wikipedia.org/wiki/Hardware_keylogger]4. MITM Keyloggers[/url][/u][/b][/size]
+[img=294x144]https://raw.githubusercontent.com/xadamxk/tutorial-assets/main/hardware-hacking-tools/keycroc.jpg[/img][/align]
+[b]Description[/b]: Record user keystrokes, emulates trusted devices, remotely access data, keystroke injection, and more.
+[b]Manufacturer[/b]: [url=https://hak5.org]Hak5[/url]
+[b]Models[/b]:[list]
+[*] [url=https://github.com/hak5/keycroc-payloads]Hak5's Key Croc[/url] ([url=https://shop.hak5.org/products/key-croc]Official: $120[/url], [url=https://www.amazon.com/Hak5-Key-Croc/dp/B088JKB4D8]Reseller: $190[/url])
+[*] [url=https://www.keelog.com/]Keelog's Keygrabber[/url]: ([url=https://www.keelog.com/keygrabber-keylogger/]Official: $134[/url])
+[*] [url=https://www.keelog.com/]Keelog's AirDrive[/url]: ([url=https://www.keelog.com/airdrive-keylogger/]Official: $60[/url])
+[/list]
+
+[align=center][size=xx-large][b][u]3. USB Rubber Ducky[/u][/b][/size]
+[img=334x412]https://github.com/xadamxk/tutorial-assets/blob/main/hardware-hacking-tools/usb%20rubber%20ducky2.jpg?raw=true[/img][/align]
+[b]Description[/b]: [url=https://www.forbes.com/sites/ygrauer/2016/09/02/mr-robot-season-2-episode-9-rubber-duckie-youre-the-one]As seen on Mr.Robot...[/url] Covert USB that injects keystrokes, spoofs known hardware ids, store files locally, and [url=https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-tm-quick-reference]run custom ducky scripts[/url] for any situation. Has an active community with fan-made tools like [url=https://github.com/xadamxk/USB-Rubber-Ducky-App]USB Rubber Ducky App[/url].
+[b]Manufacturer[/b]: [url=https://hak5.org]Hak5[/url]
+[b]Models[/b]:[list]
+[*] [url=https://github.com/hak5/usbrubberducky-payloads]Hak5's USB Rubber Ducky[/url] ([url=https://shop.hak5.org/products/usb-rubber-ducky]Official: $80[/url])
+[*] [url=https://github.com/spacehuhn/WiFiDuck]DSTIKE's WiFi Duck[/url] ([url=https://dstike.com/products/dstike-wifi-duck]Official: $35[/url])
+[*] [url=https://usbnova.com/]Spacehuhn's USB Nova[/url] ([url=https://spacehuhn.store/products/usb-nova]Official: €39[/url])
+[/list]
+
+[align=center][size=xx-large][b][u]2. WiFi Pineapple[/u][/b][/size]
+[img=231x224]https://raw.githubusercontent.com/xadamxk/tutorial-assets/main/hardware-hacking-tools/wifi%20pineapple.jpg[/img][/align]
+[b]Description[/b]: A complete network penetration test suite device. Perform MITM attacks by mimicking trusted networks for vulnerable targets, capture WPA handshakes and imitate access points, limit attacks by MAC and SSID, offers an easy-to-use web interface, monitor and log all network traffic, de-auth web clients, and more. Supports [url=https://github.com/hak5/pineapple-modules]3rd party modules[/url] and actively receives updates from contributors.
+[b]Manufacturer[/b]: [url=https://hak5.org]Hak5[/url]
+[b]Models[/b]:[list]
+[*] [url=https://github.com/hak5/pineapple-modules]Hak5's WiFi Pineapple Mark VII[/url] ([url=https://shop.hak5.org/products/wifi-pineapple]Official: $120[/url])
+[*] [url=https://shop.hak5.org/products/wifi-pineapple-enterprise]Hak5's WiFi Pineapple Enterprise[/url] ([url=https://shop.hak5.org/products/wifi-pineapple-enterprise]Official: $1200+[/url])
+[*] Hack Gadget's WiFi Pineapple ([url=https://hacker-gadgets.com/product/wifi-pineapple-rogue-access-point/]Official: $100[/url])
+[*] [url=https://pwnagotchi.ai/]Pwn-a-gotchi[/url] (Build your own [url=https://pwnagotchi.ai/installation/#body-nbsp]for cheap[/url])
+[/list]
+
+[align=center][size=xx-large][b][u]1. Flipper Zero[/u][/b][/size]
+[img=254x105]https://github.com/xadamxk/tutorial-assets/blob/main/hardware-hacking-tools/flipper%20zero.jpg?raw=true[/img][/align]
+[b]Description[/b]: Monitor and play back sub-1 GHz frequencies for every day devices like smart home accessories, sensors, and garage doors. Read, store, and clone low-frequency proximity card tags along with high-frequency RFID devices such as Credit Cards, Wii Amibos, keyless entry doors, and more. Also includes an infrared transmitter (and receiver) to control basic devices including TVs, fans, and other remote controlled devices. 
+[b]Manufacturer[/b]: [url=https://www.flipperdevices.com/]Flipper Devices[/url]
+[b]Models[/b]:[list]
+[*] [url=https://flipperzero.one/]Flipper Zero[/url] ([url=https://shop.flipperzero.one/]Official: $169[/url])
+[*] [url=https://flipperzero.one/one]Flipper One[/url] (Under Development)
+[/list]
+
+[align=center][size=xx-large][b][u]Honorable Mentions[/u][/b][/size][/align]
+[list]
+[*] [b]Mischief Gadget's O.MG Cable[/b] ([url=https://hak5.org/collections/mischief-gadgets/products/omg-cable]Official: $90[/url])
+[*] [b]Hak5's WiFi Coconut[/b] ([url=https://shop.hak5.org/products/wifi-coconut]Official: $200[/url])
+[*] [b]Hak5's Bash Bunny[/b] ([url=https://hak5.org/collections/hotplug-attack-tools/products/bash-bunny]Official: $120[/url])
+[*] [b]Hak5's Screen Crab[/b] ([url=https://hak5.org/collections/implants/products/screen-crab]Official: $200[/url])
+[*] [b][url=https://greatscottgadgets.com/hackrf/one/]Great Scott Gadget's HackRF One[/url][/b] ([url=https://hackerwarehouse.com/product/hackrf-one-kit/]Reseller: $350[/url], [url=https://www.adafruit.com/product/3583]Reseller: $340[/url], [url=https://www.sparkfun.com/products/13001]Reseller: $390[/url])
+[*] [b]USB Kill V4[/b] ([url=https://usbkill.com/products/usbkill-v4]Official: $85[/url])
+[*] [b]Signal Jammers[/b] ([url=https://www.thesignaljammer.com/]$100+[/url])
+[/list]
